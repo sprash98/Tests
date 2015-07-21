@@ -53,8 +53,8 @@ class Workout():
 
     # Set bounds for numeric values
     max_duration = 120
-    max_level = 12
-    max_intensity = 12
+    max_level = 10
+    max_intensity = 10
     max_incline = 12
 
     def __init__(self):
